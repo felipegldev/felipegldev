@@ -2,7 +2,7 @@
 Programador Web FullStack, con conocimiento en PHP, Django, HTML, CSS, JavaScript, JSON y API REST<br>Programador de Escritorio, con conocimiento en Java y Python.<br>Programador Movil con conocimiento en Ionic y Flutter.<br>Programador Junior
 
 
-## 🌐 Socials:
+# 🌐 Redes Sociales / Socials: 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cloude._21) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pxp0.__21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-guti%C3%A9rrez-leyton-8325a31ba/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/phinks21) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@pxp0._21) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@FelipeG83734531) 
 
 # 💻 Ficha Tecnica / Tech Stack:
