@@ -1,5 +1,5 @@
 # 💫 Sobre mi / About Me:
-Programador Web FullStack, con conocimiento en PHP, Django, HTML, CSS, JavaScript, JSON y API REST<br>Programador de Escritorio, con conocimiento en Java y Python.<br>Programador Movil con conocimiento en Ionic y Flutter.<br>Programador Junior
+Programador Web FullStack, con conocimiento en PHP, Django, HTML, CSS, JavaScript, JSON y API REST<br>Programador de Escritorio, con conocimiento en Java y Python.<br>Programador Movil con conocimiento en Ionic y Flutter.
 
 
 # 🌐 Redes Sociales / Socials: 
